@@ -1,0 +1,4 @@
+pandas 
+numpy 
+seaborn
+-e . # -e . is used for editable installs, which is not needed here

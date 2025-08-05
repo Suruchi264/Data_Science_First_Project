@@ -1,4 +1,11 @@
-pandas 
-numpy 
+pandas
+numpy
 seaborn
--e . # -e . is used for editable installs, which is not needed here
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+
+#-e .
+-e .
